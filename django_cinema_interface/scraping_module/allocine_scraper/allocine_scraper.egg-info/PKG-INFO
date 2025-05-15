@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: allocine_scraper
+Version: 1.0
+Requires-Dist: scrapy
+Requires-Dist: psycopg2-binary
+Requires-Dist: python-dotenv
+Dynamic: requires-dist

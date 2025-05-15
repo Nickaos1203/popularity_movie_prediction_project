@@ -1,0 +1,6 @@
+setup.py
+allocine_scraper.egg-info/PKG-INFO
+allocine_scraper.egg-info/SOURCES.txt
+allocine_scraper.egg-info/dependency_links.txt
+allocine_scraper.egg-info/requires.txt
+allocine_scraper.egg-info/top_level.txt
