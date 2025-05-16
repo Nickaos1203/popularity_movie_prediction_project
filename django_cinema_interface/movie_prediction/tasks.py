@@ -20,7 +20,6 @@ NATIONAL_TO_LOCAL_RATIO = 2000  # dividing factor to convert national to local a
 DAYS_PER_WEEK = 7
 
 
-
 @shared_task
 def scrape_new_releases():
     """
